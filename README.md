@@ -1,2 +1,2 @@
 # Algorithms
-Introduced to add algorithms in Java
+Playground for learning and writing algorithms in Java
